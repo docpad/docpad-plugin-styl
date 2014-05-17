@@ -26,7 +26,8 @@
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)",
+    "RobLoach (https://github.com/RobLoach)"
   ],
   "bugs": {
     "url": "https://github.com/docpad/docpad-plugin-styl/issues"
@@ -50,10 +51,13 @@
   "devDependencies": {
     "coffee-script": "~1.7.1",
     "docpad": ">=6.37 <7",
-    "projectz": "~0.3.10"
+    "projectz": "~0.3.13"
   },
   "main": "./out/styl.plugin.js",
   "scripts": {
     "test": "node ./out/styl.test.js"
+  },
+  "cakeConfiguration": {
+    "COFFEE_SRC_PATH": "src"
   }
 }

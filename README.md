@@ -24,9 +24,9 @@ Convention:  `.css.styl`
 
 ## Install
 
-### [Node](http://nodejs.org/)
-- Use: `require('docpad-plugin-styl')`
-- Install: `npm install --save docpad-plugin-styl`
+``` bash
+docpad install styl
+```
 
 <!-- /INSTALL -->
 
@@ -79,6 +79,7 @@ No sponsors yet! Will you be the first?
 These amazing people have contributed code to this project:
 
 - [Benjamin Lupton](https://github.com/balupton) <b@lupton.cc> — [view contributions](https://github.com/docpad/docpad-plugin-styl/commits?author=balupton)
+- [RobLoach](https://github.com/RobLoach) — [view contributions](https://github.com/docpad/docpad-plugin-styl/commits?author=RobLoach)
 
 [Become a contributor!](https://github.com/docpad/docpad-plugin-styl/blob/master/CONTRIBUTING.md#files)
 
