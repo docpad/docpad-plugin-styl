@@ -38,6 +38,9 @@ By default we compress the output for all environments except the development en
 
 
 
+
+
+
 <!-- INSTALL/ -->
 
 <h2>Install</h2>
